@@ -1,0 +1,22 @@
+html {
+    color:#c0c0be; 
+}
+
+body {
+    background-color: #2e2c29;
+    text-align:center;
+}
+
+a:visited,
+a:link {
+    color: #2e76b8;
+}
+
+a:hover {
+    color:#c0c0be
+}
+
+h2,
+li {
+    text-align:left;
+}
