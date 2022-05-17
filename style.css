@@ -4,9 +4,18 @@ html {
 
 body {
     background-color: #2e2c29;
-    text-align:center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 115%;
+    text-align: center;
+}
+
+p {
+    font-size: x-large;
+}
+
+.columns {
+    column-count: 2;
+    column-gap: 0px;
 }
 
 a:visited,
@@ -31,4 +40,9 @@ li {
 img {
     height: auto;
     width: 650px;
+}
+
+.link {
+    height:auto;
+    width:400px;
 }
