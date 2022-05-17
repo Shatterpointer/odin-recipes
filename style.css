@@ -5,6 +5,8 @@ html {
 body {
     background-color: #2e2c29;
     text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 115%;
 }
 
 a:visited,
@@ -19,4 +21,14 @@ a:hover {
 h2,
 li {
     text-align:left;
+    margin-left:75px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+img {
+    height: auto;
+    width: 650px;
 }
