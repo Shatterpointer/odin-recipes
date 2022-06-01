@@ -9,13 +9,14 @@ body {
     text-align: center;
 }
 
-p {
+div {
     font-size: x-large;
 }
 
-.columns {
-    column-count: 2;
-    column-gap: 0px;
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
 }
 
 a:visited,
